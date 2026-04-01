@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.so
+.Python
+.ipynb_checkpoints/
+data/*.csv
+output/*.csv
+venv/
+env/
+.venv/
+.vscode/
+.idea/
